@@ -1,0 +1,4 @@
+export const START_FETCHING_PENDAFTARAN = 'redux/pendaftaran/START_FETCHING_PENDAFTARAN';
+export const SUCCESS_FETCHING_PENDAFTARAN ='redux/pendaftaran/SUCCESS_FETCHING_PENDAFTARAN';
+export const ERROR_FETCHING_PENDAFTARAN = 'redux/pendaftaran/ERROR_FETCHING_PENDAFTARAN';
+export const SET_KEYWORD = 'redux/pendaftaran/SET_KEYWORD';
